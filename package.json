@@ -1,0 +1,19 @@
+{
+  "name": "ngvolume",
+  "version": "1.0.0",
+  "description": "Git pour la forme :D",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamShadow/CreativeTechDay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YamShadow/CreativeTechDay/issues"
+  },
+  "homepage": "https://github.com/YamShadow/CreativeTechDay#readme"
+}

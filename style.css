@@ -1,0 +1,16 @@
+.row {
+    border: 1px solid black;
+}
+
+.row div {
+    border: 1px dashed brown;
+}
+
+table, tr, td {
+    margin: 0;
+}
+
+#map td {
+    width: 10%;
+    height: 10%;
+}
